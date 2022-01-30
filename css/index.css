@@ -1,0 +1,135 @@
+
+html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+    background: url('../images/triangle-pattern-f272c842301a7651a1d88957a6b0c946.png') fixed !important;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1{
+    color: rgb(36, 47, 87);
+    font-family: Muli, sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    letter-spacing: 0.81px;
+    line-height: 53px;
+}
+h2 , h3 ,h4{
+    color: rgb(36, 47, 87);
+    font-family: Muli, sans-serif;
+    font-weight: 900;
+    letter-spacing: 0.81px;
+    line-height: 53px;
+}
+p , li{
+    color: rgb(36, 47, 87);
+    font-family: Muli, sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+}
+li{
+    padding-top: 10px;
+}
+
+.section-padding{
+    padding-top: 40px;
+}
+
+#nav{    
+    background: rgba(255,255,255,0.96) !important;
+}
+
+#logo{
+    padding: 10px 0 10px 55px ;
+}
+
+#nav-links li{
+    font-family: Muli, sans-serif;
+    padding: 10px 0 10px 45px;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+#nav-links li a {
+    color: rgb(36, 47, 87);
+}
+
+.nav-link{
+    padding : 0;
+}
+
+#navbar-div{
+    padding-right: 70px;
+}
+
+#hero-area{
+    padding-top: 200px;
+    background: none !important;
+}
+
+.head-title{
+    padding-top: 20px;
+}
+
+#hero-area p {
+    margin-top: 33px;
+}
+
+#button{
+    cursor: pointer;
+    font-family: Muli, sans-serif;
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+    height: auto;
+    width: auto;
+    padding : 8px 25px 8px 25px;
+    transition: all 0.3s ease 0s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(28, 45, 65);
+    border: none;
+    margin-top: 20px;
+    font-size: 17px;
+    border-radius: 8px;
+}
+
+#button:hover {
+    box-shadow:  rgb(28 45 65) 0px 9px 20px -5px !important;
+}
+
+#button:focus{
+    box-shadow: none;
+}
+
+.card{
+    margin: 20px;
+    border : none;
+    border-radius: 20px;
+    padding: 12px 0 55px 0;
+}
+
+.card:hover{
+    border-radius: 20px;
+    transition: .3s all;
+    transform: scale(1.02,1.02);
+    transform : translateY(-5px);
+    background-color:  rgb(49, 117, 246);
+    cursor: pointer;
+    color: white;
+}
+
+.card:hover p {
+    transition: .2s all;
+    color : white;
+}
+
+footer a  , footer h4{
+    font-size: 15px;
+}
