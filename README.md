@@ -5,8 +5,9 @@ VisionX is a Business website.
 visit the webpage: [VisionX](https://vision-webpage.netlify.app/)
 
 ##	Screenshots
-![header]([https://res.cloudinary.com/e-store1/image/upload/v1644404409/github/insta_1_rloopy.jpg](https://res.cloudinary.com/e-store1/image/upload/v1644404409/github/insta_1_rloopy.jpg))
-![Home]([https://res.cloudinary.com/e-store1/image/upload/v1644404411/github/insta_5_h6vw7o.jpg](https://res.cloudinary.com/e-store1/image/upload/v1644404411/github/insta_5_h6vw7o.jpg))
+![Header](https://res.cloudinary.com/e-store1/image/upload/v1644404409/github/insta_1_rloopy.jpg)
+
+![body](https://res.cloudinary.com/e-store1/image/upload/v1644404411/github/insta_5_h6vw7o.jpg)
 
 Visit the Behance for UI Design : [VisionX](https://www.behance.net/gallery/137002393/VisionX-Website)
 
